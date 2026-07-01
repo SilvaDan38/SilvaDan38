@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o Danilo Silva</h1>
 <h3 align="center">Gerente de Projetos e Especialista em Observabilidade</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silvadan38&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="silvadan38" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SilvaDan38&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="SilvaDan38" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvadan38" alt="silvadan38" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=SilvaDan38" alt="SilvaDan38" /></a> </p>
 
 ---
 
@@ -67,8 +67,8 @@
 
 <h3 align="left">📊 Estatísticas do GitHub:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvadan38&show_icons=true&locale=pt-br&layout=compact" alt="silvadan38" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SilvaDan38&show_icons=true&locale=pt-br&layout=compact" alt="SilvaDan38" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvadan38&show_icons=true&locale=pt-br" alt="silvadan38" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SilvaDan38&show_icons=true&locale=pt-br" alt="SilvaDan38" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvadan38&locale=pt_BR" alt="silvadan38" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SilvaDan38&locale=pt_BR" alt="SilvaDan38" /></p>
