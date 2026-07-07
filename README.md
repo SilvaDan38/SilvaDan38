@@ -6,6 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilvaDan38&label=Profile%20Views&color=36BCF7&style=flat-square" alt="SilvaDan38" />
+  <img src="https://img.shields.io/badge/🇧🇷-Brasil-009739?style=flat-square&labelColor=FFDF00" alt="Brasil" />
+  <img src="https://img.shields.io/badge/🖤🤍-Corinthians-000000?style=flat-square&labelColor=FFFFFF" alt="Corinthians" />
 </p>
 
 ## 🧑‍💻 About me
