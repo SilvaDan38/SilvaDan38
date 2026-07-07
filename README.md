@@ -6,8 +6,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilvaDan38&label=Profile%20Views&color=36BCF7&style=flat-square" alt="SilvaDan38" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="30" alt="Bandeira do Brasil" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EfOP2OgexgXlx21QVtavRkxjO7Xpjeztd9WmQ59bcQ&s=10" width="30" alt="Escudo do Corinthians" />
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EfOP2OgexgXlx21QVtavRkxjO7Xpjeztd9WmQ59bcQ&s=10" alt="Escudo do Corinthians" />
 </p>
 
 ## 🧑‍💻 About me
