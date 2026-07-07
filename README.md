@@ -76,12 +76,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SilvaDan38&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=SilvaDan38&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SilvaDan38&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=SilvaDan38&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaDan38&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Langs" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SilvaDan38&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Langs" />
 </p>
 
 ## 🐍 Contribution Graph
