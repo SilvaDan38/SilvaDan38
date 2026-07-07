@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" height="80" alt="Bandeira do Brasil" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SC_Corinthians.svg" height="80" alt="Bandeira do Corinthians" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/SC_Corinthians.svg" height="80" alt="Bandeira do Corinthians" />
 </p>
 
 ## 🧑‍💻 About me
