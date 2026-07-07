@@ -76,8 +76,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SilvaDan38&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SilvaDan38&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SilvaDan38&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=SilvaDan38&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 <p align="center">
