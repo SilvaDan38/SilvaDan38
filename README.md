@@ -19,7 +19,7 @@
 - 🔭 Focado em **Observabilidade, Monitoramento e Cloud**
 - 🌱 Aprendendo **OCI, GCP & Azure**
 - 🎯 Especialista em **Datadog, AWS, Grafana**
-- 👨‍💻 Meus projetos: [dps-tecnologia.netlify.app](https://dps-tecnologia.netlify.app)
+- 👨‍💻 Meus projetos: [dps-tecnologia.netlify.app](https://dps-tecnologia.netlify.app) | [GitHub eBook](https://silvadan38.github.io/github-ebook/)
 - 🎵 Curiosidade: **Sou músico**
 - 📫 Contato: **silvadanilo38.88@gmail.com**
 
